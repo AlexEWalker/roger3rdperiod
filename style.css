@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: #080037;
+font-family: 'Megrim', cursive;
+}
+
+.wrapper {
+  background-color: black;
+}
+
+.wrapper  a {
+  text-decoration: none;
+}
+
+.wrapper a:default {
+  color: #70FF00;
+}
+
+.wrapper a:checked {
+  color: #70FF00;
+}
+
+.wrapper a:active {
+  color: #AAFF67;
+}
+
+.wrapper a:visited {
+  color: #70FF00;
+}
+
+.wrapper a:link {
+  color: #70FF00
+}
+
+.Aclass1 {
+  color: #00F0FF
+}
+
+.Aclass2 {
+  color: #70FF00
+}
+
+.Aclass2 a:link {
+  color: #70FF00
+}
+
+.titles {
+  text-align: center;
+  color: #00F0FF;
+  text-transform: capitalize
+}
